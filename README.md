@@ -13,6 +13,6 @@ I'm always looking to learn, build, and take on new programming challenges. If y
 - [Linkedin](www.linkedin.com/in/xymena-hermosillo-7714393b9) <a href="www.linkedin.com/in/xymena-hermosillo-7714393b9">
   <img src="https://res.cloudinary.com/e6cdrejf/image/upload/v1788580121/linkedin-logo-linkedin-logo-transparent-linkedin-icon-transparent-free-free-png.png.webp" alt="Linkedin" width="20">
 </a>
-- [Gmail](saltbetter@gmail.com) <a href="saltbetter@gmail.com">
+- [Gmail](mailto:saltbetter@gmail.com) <a href="mailto:saltbetter@gmail.com">
   <img src="https://res.cloudinary.com/e6cdrejf/image/upload/v1788580218/google-gmail-logo-symbol-design-illustration-free-vector.jpg" alt="Gmail" width="15">
 </a>
